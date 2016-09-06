@@ -1,15 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OpenCVForUnity/Samples/HandPoseEstimationSample/HandPoseEstimationSample.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/2. Scripts/BadCodeExample.cs">
     <Files>
-      <File FileName="Assets/OpenCVForUnity/Samples/HandPoseEstimationSample/HandPoseEstimationSample.cs" Line="27" Column="15" />
-      <File FileName="Assets/OpenCVForUnity/org/opencv/core/Algorithm.cs" Line="1" Column="1" />
-      <File FileName="Assets/OpenCVForUnity/Samples/DrawingSample/DrawingSample.cs" Line="1" Column="1" />
-      <File FileName="Assets/OpenCVForUnity/scripts/AlbertsScript.cs" Line="1" Column="1" />
-      <File FileName="Assets/OpenCVForUnity/Samples/HoughLinesPSample/HoughLinesPSample.cs" Line="1" Column="1" />
+      <File FileName="Assets/2. Scripts/PokiAR_cam.cs" Line="1" Column="1" />
       <File FileName="Assets/2. Scripts/Pika_animate.cs" Line="1" Column="1" />
-      <File FileName="Assets/2. Scripts/PokiAR_cam.cs" Line="17" Column="3" />
-      <File FileName="Assets/OpenCVForUnity/Samples/ComicFilterSample/ComicFilterSample.cs" Line="1" Column="1" />
+      <File FileName="Assets/2. Scripts/BadCodeExample.cs" Line="8" Column="29" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

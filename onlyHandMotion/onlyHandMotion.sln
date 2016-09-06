@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{935D946E-3A31-BFBF-8DA0-FCD5F52333F0}") = "onlyHandMotion", "Assembly-CSharp.csproj", "{2ABC9716-AA96-100F-CA0D-BA74CE1733A9}"
 EndProject
-Project("{935D946E-3A31-BFBF-8DA0-FCD5F52333F0}") = "onlyHandMotion", "Assembly-CSharp-Editor.csproj", "{1F6BF98A-6D10-6734-E7E2-4796AC7C779F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,10 +13,6 @@ Global
 		{2ABC9716-AA96-100F-CA0D-BA74CE1733A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ABC9716-AA96-100F-CA0D-BA74CE1733A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ABC9716-AA96-100F-CA0D-BA74CE1733A9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1F6BF98A-6D10-6734-E7E2-4796AC7C779F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1F6BF98A-6D10-6734-E7E2-4796AC7C779F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1F6BF98A-6D10-6734-E7E2-4796AC7C779F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1F6BF98A-6D10-6734-E7E2-4796AC7C779F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
