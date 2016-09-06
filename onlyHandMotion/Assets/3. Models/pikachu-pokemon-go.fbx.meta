@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 2c49f95611a574b6893c4a60dade3d67
+timeCreated: 1472839524
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera_Perspective3
+    100002: Cylinder_1_8
+    100004: Cylinder_7
+    100006: //RootNode
+    100008: PikachuM_PikachuM
+    100010: PikachuM_PikachuM 1
+    100012: PikachuM_PikachuM 2
+    100014: PikachuM_PikachuM 3
+    100016: pokeball-vray
+    100018: Spher_9
+    100020: Sphere2_6
+    100022: Sphere_5
+    100024: XY_PikachuM
+    400000: Camera_Perspective3
+    400002: Cylinder_1_8
+    400004: Cylinder_7
+    400006: //RootNode
+    400008: PikachuM_PikachuM
+    400010: PikachuM_PikachuM 1
+    400012: PikachuM_PikachuM 2
+    400014: PikachuM_PikachuM 3
+    400016: pokeball-vray
+    400018: Spher_9
+    400020: Sphere2_6
+    400022: Sphere_5
+    400024: XY_PikachuM
+    2300000: Cylinder_1_8
+    2300002: Cylinder_7
+    2300004: PikachuM_PikachuM
+    2300006: PikachuM_PikachuM 1
+    2300008: PikachuM_PikachuM 2
+    2300010: PikachuM_PikachuM 3
+    2300012: Spher_9
+    2300014: Sphere2_6
+    2300016: Sphere_5
+    3300000: Cylinder_1_8
+    3300002: Cylinder_7
+    3300004: PikachuM_PikachuM
+    3300006: PikachuM_PikachuM 1
+    3300008: PikachuM_PikachuM 2
+    3300010: PikachuM_PikachuM 3
+    3300012: Spher_9
+    3300014: Sphere2_6
+    3300016: Sphere_5
+    4300000: PikachuM_PikachuM
+    4300002: PikachuM_PikachuM
+    4300004: PikachuM_PikachuM
+    4300006: PikachuM_PikachuM
+    4300008: Cylinder_1_8
+    4300010: Sphere_5
+    4300012: Cylinder_7
+    4300014: Spher_9
+    4300016: Sphere2_6
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/1.Scenes/Pokimon_kill.unity
+  isLoaded: 1
+  isActive: 1
