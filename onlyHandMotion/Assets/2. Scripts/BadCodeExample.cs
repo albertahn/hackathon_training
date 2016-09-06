@@ -23,6 +23,11 @@ public class BadCodeExample : MonoBehaviour {
 
 		d = (GameObject)Instantiate(player,spawnPos,Quaternion.identity);
 
+		GameObject.Destroy (a);
+		GameObject.Destroy (b);
+		GameObject.Destroy (c);
+		GameObject.Destroy (d);
+
 		//=> after loading the objects, just change the visibility through:   renderer.enabled = true;
 	
 	}
