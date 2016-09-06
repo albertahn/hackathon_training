@@ -48,6 +48,7 @@
      <Compile Include="Assets\2. Scripts\BadCodeExample.cs" />
      <Compile Include="Assets\2. Scripts\Pika_animate.cs" />
      <Compile Include="Assets\2. Scripts\PokiAR_cam.cs" />
+     <Compile Include="Assets\2. Scripts\TestLocation.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

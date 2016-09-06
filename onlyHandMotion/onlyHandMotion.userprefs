@@ -1,10 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/2. Scripts/BadCodeExample.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/2. Scripts/TestLocation.cs">
     <Files>
+      <File FileName="Assets/2. Scripts/TestLocation.cs" Line="1" Column="1" />
+      <File FileName="Assets/2. Scripts/BadCodeExample.cs" Line="1" Column="1" />
       <File FileName="Assets/2. Scripts/PokiAR_cam.cs" Line="1" Column="1" />
       <File FileName="Assets/2. Scripts/Pika_animate.cs" Line="1" Column="1" />
-      <File FileName="Assets/2. Scripts/BadCodeExample.cs" Line="8" Column="29" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

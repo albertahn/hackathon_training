@@ -10,7 +10,7 @@ public class BadCodeExample : MonoBehaviour {
 
 	void Start () {
 
-//1. Instantiating too many objects within game
+//1. Instantiating too many objects within game : use object pooling to reuse instantiated objects like bullets . 
 		spawnPos = new Vector3(0,0,0);
 
 		a = (GameObject)Instantiate(player,spawnPos,Quaternion.identity);
